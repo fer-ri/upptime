@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 81,
-    "timeWeek": 107,
-    "timeMonth": 122,
+    "timeDay": 54,
+    "timeWeek": 86,
+    "timeMonth": 120,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 125,
-    "timeWeek": 136,
-    "timeMonth": 175,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 160,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2022-03-01": 20
@@ -40,7 +40,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.92%",
@@ -48,10 +48,10 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.87%",
-    "time": 283,
-    "timeDay": 306,
-    "timeWeek": 301,
-    "timeMonth": 275,
+    "time": 284,
+    "timeDay": 417,
+    "timeWeek": 311,
+    "timeMonth": 281,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2022-09-30": 78,
@@ -64,7 +64,7 @@
   {
     "name": "Test for HEAD",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
     "status": "up",
     "uptime": "100.00%",
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 27,
-    "timeDay": 18,
-    "timeWeek": 31,
-    "timeMonth": 32,
+    "timeDay": 10,
+    "timeWeek": 22,
+    "timeMonth": 31,
     "timeYear": 26,
     "dailyMinutesDown": {}
   }

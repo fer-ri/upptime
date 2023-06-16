@@ -4,10 +4,10 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
@@ -15,7 +15,9 @@
     "timeWeek": 119,
     "timeMonth": 116,
     "timeYear": 106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 1
+    }
   },
   {
     "name": "Wikipedia",
@@ -72,9 +74,9 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "test-for-head",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,6 +85,8 @@
     "timeWeek": 31,
     "timeMonth": 28,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   }
 ]

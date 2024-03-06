@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -36,9 +36,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -48,6 +48,7 @@
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-02-22": 19,
       "2023-09-12": 27
     }
@@ -65,7 +66,7 @@
     "uptimeYear": "99.85%",
     "time": 303,
     "timeDay": 287,
-    "timeWeek": 275,
+    "timeWeek": 281,
     "timeMonth": 300,
     "timeYear": 297,
     "dailyMinutesDown": {

@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 155,
-    "timeWeek": 106,
+    "timeDay": 100,
+    "timeWeek": 108,
     "timeMonth": 103,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 399,
-    "timeWeek": 262,
-    "timeMonth": 178,
-    "timeYear": 203,
+    "timeDay": 239,
+    "timeWeek": 277,
+    "timeMonth": 182,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -50,13 +50,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 290,
-    "timeWeek": 267,
-    "timeMonth": 314,
+    "timeDay": 88,
+    "timeWeek": 262,
+    "timeMonth": 312,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2024-04-26": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test for HEAD",
@@ -70,7 +68,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
-    "timeDay": 52,
+    "timeDay": 23,
     "timeWeek": 22,
     "timeMonth": 23,
     "timeYear": 31,

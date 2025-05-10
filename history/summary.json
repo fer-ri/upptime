@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 91,
-    "timeWeek": 118,
+    "timeDay": 85,
+    "timeWeek": 112,
     "timeMonth": 108,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 42,
-    "timeWeek": 247,
-    "timeMonth": 217,
+    "timeDay": 189,
+    "timeWeek": 268,
+    "timeMonth": 211,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 142,
-    "timeWeek": 252,
-    "timeMonth": 265,
+    "time": 306,
+    "timeDay": 320,
+    "timeWeek": 282,
+    "timeMonth": 267,
     "timeYear": 308,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-10": 0
+    }
   },
   {
     "name": "Test for HEAD",
@@ -67,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 30,
-    "timeDay": 21,
-    "timeWeek": 36,
+    "timeDay": 16,
+    "timeWeek": 35,
     "timeMonth": 26,
     "timeYear": 29,
     "dailyMinutesDown": {
